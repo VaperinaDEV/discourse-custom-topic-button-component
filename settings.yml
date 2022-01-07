@@ -1,7 +1,7 @@
 custom_topic_button_enabled:
   default: true
 custom_topic_button_url:
-  default: "https://vaperina.cc/new-topic?title=Felhasználó értékelése&category=adok-veszek/ertekelesek"
+  default: "/new-topic?title=Felhasználó értékelése&category=adok-veszek/ertekelesek"
 custom_topic_button_title:
   default: "Értékelés"
 custom_topic_button_label:
